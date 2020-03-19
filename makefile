@@ -1,0 +1,1 @@
+dev: go run httpd/main.go -o main.go
